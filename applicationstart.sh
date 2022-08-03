@@ -2,6 +2,6 @@
 
 cd /home/ubuntu/freshkhao
 echo "we are starting the server"
-pm2 start "npm run start" --name freshkhao
+pm21 2start "npm run start" --name freshkhao
 
 
