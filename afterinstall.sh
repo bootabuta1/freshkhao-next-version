@@ -2,7 +2,7 @@
 
 cd /home/ubuntu/freshkhao
 echo "creating build files"
-npm run build
+npm -f run build
 
 pm2 status
 
