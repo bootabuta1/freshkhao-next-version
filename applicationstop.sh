@@ -1,5 +1,4 @@
 #!/bin/bash
 
 echo "stoping my exising/running server"
-pm2 -f delete freshkhao
-
+pm2 -f delete all
