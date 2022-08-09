@@ -2,4 +2,4 @@
 
 echo "stoping my exising/running server"
 pm2 ls
-#pm2 -f stop --freshkhao
+pm2 -f start --freshkhao
